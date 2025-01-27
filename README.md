@@ -1,5 +1,7 @@
 # To-Do List
 
+*(Scroll down for the Hungarian and Romanian descriptions / Görgess le a magyar és román leíráshoz / Derulați în jos pentru descrierea în limba maghiară și română)*
+
 ---
 
 ## English 🇬🇧
